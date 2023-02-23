@@ -1,5 +1,14 @@
 # Real-Estate-Price-Prediction-System
-A Machine Learning based program that predicts the prices of the houses in an area by using the prices of other houses with similar salient features 
+A Machine Learning based program that predicts the prices of the houses in an area by using the prices of other houses with similar salient features.
+
+# Process
+-> The goal is to predict the final Sale Price of the houses in the test data set.
+-> Housing price is strongly based on factors such as location, features and facilities available.
+-> The performances of various regression techniques such as Random Forest, Stochastic Gradient Descent, Gradient Boosting, and Xtremme Gradient Boosting are compared.
+-> Then the best fit model is chosen for achieving maximum accuracy.
+-> This project explores the Housing dataset from Kaggle. 
+-> The dataset contains 79 variables describing various aspects of residential homes in Ames, Iowa. 
+
 
 # System Workflow
 
